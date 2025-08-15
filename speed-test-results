@@ -1,0 +1,82 @@
+VPN Speed Test Results
+========================
+
+Test Date: August 15, 2025
+Test Time: Multiple tests conducted
+VPN Provider: ProtonVPN Free Tier
+Server Location: Miami, Florida, USA
+
+BASELINE (No VPN)
+-----------------
+Download Speed: 37.82 Mbps
+Upload Speed: 38.79 Mbps
+Ping: 9 ms
+ISP: Bharti Airtel Ltd.
+IP Address: 122.161.74.146
+Location: Noida, Uttar Pradesh, India
+
+VPN CONNECTED - Test 1
+----------------------
+Download Speed: 14.91 Mbps
+Upload Speed: 10.56 Mbps
+Ping: 561 ms
+ISP: DataCamp Limited
+IP Address: 138.199.50.137
+Apparent Location: Miami, Florida, USA
+VPN Server: US-FREE#106
+
+VPN CONNECTED - Test 2
+----------------------
+Download Speed: 26.87 Mbps
+Upload Speed: 36.45 Mbps
+Ping: 8 ms
+ISP: DataCamp Limited
+IP Address: 138.199.50.137
+Apparent Location: Miami, Florida, USA
+VPN Server: US-FREE#106
+
+PERFORMANCE IMPACT
+------------------
+Download Speed Change: -61% to -29%
+Upload Speed Change: -73% to -6%
+Ping Increase: Variable (561ms increase to 1ms decrease)
+Overall Performance: FAIR to GOOD (depending on time/server load)
+
+MULTIPLE SERVER TESTS
+---------------------
+Server 1 (Miami, FL):
+- Download: 14.91-26.87 Mbps
+- Upload: 10.56-36.45 Mbps
+- Ping: 8-561 ms
+
+BEST PERFORMING SERVER
+----------------------
+Location: Miami, Florida (US-FREE#106)
+Download: 26.87 Mbps (best result)
+Upload: 36.45 Mbps (best result)
+Ping: 8 ms (best result)
+Distance: ~15,000 km from India
+
+ANALYSIS
+--------
+Speed Reduction: 29-61%
+Latency Increase: Highly variable
+Most Affected: Download speed consistency
+Usability Impact: MEDIUM
+
+NOTES
+-----
+- Connection stability varied significantly between tests
+- Website loading performance was noticeably slower during high-ping periods
+- Video streaming quality reduced during slower connection periods
+- No connection drops or interruptions observed
+- Server load appeared to significantly impact performance
+
+TEST ENVIRONMENT
+----------------
+Device: Computer/Laptop
+OS: Windows/Mac/Linux (based on screenshots appears to be desktop)
+Browser: Google Chrome
+Connection Type: WiFi/Ethernet
+Time of Day: Multiple tests at different times
+Network Load: Variable based on server conditions
